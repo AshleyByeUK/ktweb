@@ -1,0 +1,15 @@
+{
+
+  "apiKeys": {
+    "openWeatherMapAppId": "<PASTE APP ID HERE>"
+  },
+  "dataSource": {
+    "username": "kotlinuser",
+    "password": "kotlinpass",
+    "jdbcUrl": "jdbc:postgresql://localhost:5432/kotlindb"
+  },
+  "server": {
+    "port": 9000,
+    "caching": true
+  }
+}
