@@ -8,7 +8,7 @@ based on the book [https://leanpub.com/modern-web-development-with-kotlin](https
 ## Instructions
 
 Obtain an [Open Weather Map App ID](https://openweathermap.org/appid) and paste the value
-into *development.json* and *production.json*.
+into *conf/development.json* and *conf/production.json*.
 
 To install npm dependencies:
 
